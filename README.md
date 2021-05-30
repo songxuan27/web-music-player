@@ -1,4 +1,2 @@
-# web-music-player
-a  web music-player
-
-学习vue播放器记录
+# web-music-playe
+Vue播放器，用的公开API接口做的
